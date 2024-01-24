@@ -1,0 +1,71 @@
+#a{
+
+    border: orange solid 1px;
+    margin: auto;
+    height: 500px;
+    width: 500px;
+text-align: center;
+}
+
+#b{
+
+    border: blue solid 2px;
+    margin: auto;
+    height: 400px;
+    width: 400px;
+
+}
+
+#ab{
+
+
+
+        border: black solid 1px;
+        margin: auto;
+        height: 50px;
+        width: 50px;
+    
+
+
+}
+
+
+#df{
+
+
+
+        border: pink solid 1px;
+        margin: auto;
+        height: 90px;
+        width: 90px;
+    
+    
+
+
+}
+#c{
+
+    border: green solid 3px;
+    margin: auto;
+    height: 300px;
+    width: 300px;
+
+}
+
+#d{
+
+    border: yellow solid 4px;
+    margin: auto;
+    height: 200px;
+    width: 200px;
+
+}
+
+#e{
+
+    border: gray solid 5px;
+    margin: auto;
+    height: 100px;
+    width: 100px;
+
+}

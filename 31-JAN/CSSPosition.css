@@ -1,0 +1,50 @@
+#Mahadev{
+
+    border: solid black 1px;
+    margin: auto;
+    height: 500px;
+    width: 500px;
+
+
+}
+
+#Mahadev1{
+
+    border: solid red 1px;
+    
+    height: 300px;
+    width: 300px;
+    position: relative;
+    top: 100px;
+    bottom: 100px;
+    left: 100px;
+    right: 100px;
+    
+
+
+}
+
+
+#Mahadev2{
+
+    border: solid black 1px;
+    margin: auto;
+    height: 500px;
+    width: 500px;
+    
+    
+
+}
+
+#Mahadev3{
+
+    border: solid blue 1px;
+    
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 50px;
+    
+
+}
+
